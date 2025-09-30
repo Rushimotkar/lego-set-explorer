@@ -1,0 +1,19 @@
+load and review the raw LEGO  dataset , conduct some basic data prep and profiling and add calculated columns and DAX measures for analysis
+
+TASK 1:
+       connect the lego_set CSV file.
+       remove the minifigs, bricksetURL fields, review data types for accuracy and filter out records with no price ,age ,pieces or image URL values
+
+TASK 2:
+       create a conditional columns for avg range and avg price range
+       add meaures to calculate the number of distinct(total set) and theme group (total groups) as well as the average age,price ,avg pieces     
+
+TASK 3:
+       create a sketch potential report layout based on the projects 
+       insert card visuals to show total sets,avg pieces and avg price
+       Add slicers to filter based oon the theme group,theme and age range
+       Insert a table to show name ,set_id,theme,avg pieces, age range,avg price and price range 
+
+
+  
+
